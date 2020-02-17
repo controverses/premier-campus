@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Les Controverses du glyphosate
 
-You can use the [editor on GitHub](https://github.com/controverses/premier-campus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de texte collaboratif pour rédiger et retrouver votre fiche de rôle, en vue de la simulation de débats du vendredi 21 février.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Arènes
 
-### Markdown
+- **Première arène : ** à Matignon, réunion d’un groupe de projet gouvernemental sur la sortie du glyphosate avec l'ensemble des acteurs concernés.
+- **Deuxième arène : ** au Parlement européen, réunion d’une commission d’enquête pour étudier les procédures d’évaluation des pesticides et audition des parties prenantes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Acteurs
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/controverses/premier-campus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1 | [Science and Society - General introduction](resources/0-general-introduction.pdf) |
+2 | [Lecture 1 - The Gender of Science](resources/1-the-gender-of-science.pdf) |
+3 | [Lecture 2 - A Politics of Things](resources/2-a-politics-of-things.pdf) |
+4 | [Lecture 3 - Rethinking Expertise through Controversies](resources/3-rethinking-expertise.pdf) |
+5 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+6 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+7 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+8 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+9 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+10 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+11 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+12 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+13 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+14 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+15 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
