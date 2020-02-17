@@ -17,7 +17,7 @@ Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de t
 6 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
 7 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
 8 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
-9 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+9 | [Centre international de recherche sur le cancer (CIRC)](https://annuel2.framapad.org/p/9f28-premier-campus---circ?lang=fr) |
 10 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
 11 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
 12 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
