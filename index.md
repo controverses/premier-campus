@@ -9,13 +9,13 @@ Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de t
 
 ## Acteurs
 
-1 | [Ministère français (animateurs de l'arène 1), puis Autorité européenne de sécurité des aliments (EFSA)](https://annuel2.framapad.org/p/9f2a-premier-campus-ministeres-efsa?lang=fr) |
+1 | [Ministères français (animateurs de l'arène 1), puis Autorité européenne de sécurité des aliments (EFSA)](https://annuel2.framapad.org/p/9f2a-premier-campus-ministeres-efsa?lang=fr) |
 2 | [Institut national de la recherche pour l'agriculture, l'alimentation et l'environnement (INRAE), puis députés verts (animateurs arène 2)](https://annuel2.framapad.org/p/9f2a-premier-campus-inrae-deputes-verts?lang=fr) |
 3 | [Fédération nationale des syndicats d'exploitants agricoles (FNSEA) puis COPA-COGECA](https://annuel2.framapad.org/p/9f2a-premier-campus-fnsea-copa-cogeca?lang=fr) |
 4 | [Générations futures](https://annuel2.framapad.org/p/9f2a-premier-campus-generations-futures?lang=fr) |
 5 | [UFC-Que-Choisir puis Ban Glyphosate - European Citizens' Initiative](https://annuel2.framapad.org/p/9f2a-premier-campus-ufc-ban-glyphosate?lang=fr) |
-6 | [Fondation Concorde (think-tank libéral)](https://annuel2.framapad.org/p/9f2a-premier-campus-fondation-concorde?lang=fr) |
-7 | [Laboratoire Biocheck](https://annuel2.framapad.org/p/9f2a-premier-campus-laboratoire-biocheck?lang=fr) |
+6 | [Fondation Concorde (think-tank libéral) puis Fondapol](https://annuel2.framapad.org/p/9f2a-premier-campus-fondation-concorde?lang=fr) |
+7 | [Pisseurs involontaires de glyphosate puis laboratoire Biocheck](https://annuel2.framapad.org/p/9f2a-premier-campus-laboratoire-biocheck?lang=fr) |
 8 | [Centre international de recherche sur le cancer (CIRC)](https://annuel2.framapad.org/p/9f28-premier-campus---circ?lang=fr) |
 9 | [Bayer-Monsanto](https://annuel2.framapad.org/p/9f2a-premier-campus-bayer-monsanto?lang=fr) |
 10 | [Stéphane Foucart et Stéphane Horel (Monsanto Papers) puis ONG Global 2000](https://annuel2.framapad.org/p/9f2a-premier-campus-monsanto-papers-global-2000?lang=fr) |
