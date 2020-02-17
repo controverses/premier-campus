@@ -20,7 +20,7 @@ Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de t
 9 | [Bayer-Monsanto](https://annuel2.framapad.org/p/9f2a-premier-campus-bayer-monsanto?lang=fr) |
 10 | [Stéphane Foucart et Stéphane Horel (Monsanto Papers) puis ONG Global 2000](https://annuel2.framapad.org/p/9f2a-premier-campus-monsanto-papers-global-2000?lang=fr) |
 11 | [Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES)](https://annuel2.framapad.org/p/9f2a-premier-campus-anses?lang=fr) |
-12 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
-13 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
-14 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
-15 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
+12 | [Épidémiologistes - auteurs de l'étude Glyphosate Use and Cancer Incidence in the Agricultural Health Study](https://annuel2.framapad.org/p/9f2a-premier-campus-epidemiologistes?lang=fr) |
+13 | [Experts de la FAO puis expert de l'OMS]() |
+14 | [APAS puis députés libéraux animateurs arène 2]() |
+15 | [Paul François et ses avocats puis Dewayne Lee Johnson et ses avocats]() |
