@@ -19,7 +19,7 @@ Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de t
 8 | [Centre international de recherche sur le cancer (CIRC)](https://annuel2.framapad.org/p/9f28-premier-campus---circ?lang=fr) |
 9 | [Bayer-Monsanto](https://annuel2.framapad.org/p/9f2a-premier-campus-bayer-monsanto?lang=fr) |
 10 | [Stéphane Foucart et Stéphane Horel (Monsanto Papers) puis ONG Global 2000](https://annuel2.framapad.org/p/9f2a-premier-campus-monsanto-papers-global-2000?lang=fr) |
-11 | [Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES)](https://annuel2.framapad.org/p/9f2a-premier-campus-anses?lang=fr) |
+11 | [Agence nationale (française) de sécurité sanitaire de l'alimentation, de l'environnement et du travail (ANSES)](https://annuel2.framapad.org/p/9f2a-premier-campus-anses?lang=fr) |
 12 | [Épidémiologistes - auteurs de l'étude Glyphosate Use and Cancer Incidence in the Agricultural Health Study](https://annuel2.framapad.org/p/9f2a-premier-campus-epidemiologistes?lang=fr) |
 13 | [Experts de l'Organisation des Nations Unies pour l'alimentation et l'agriculture (FAO) puis experts de l'Organisation mondiale de la Santé (OMS)](https://annuel2.framapad.org/p/9f2b-premier-campus-fao-oms?lang=fr) |
 14 | [L'Association pour la Promotion d'une Agriculture Durable (APAD) puis députés libéraux animateurs de l'arène 2](https://annuel2.framapad.org/p/9f2b-premier-campus-apad-et-deputes-liberaux?lang=fr) |
