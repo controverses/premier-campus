@@ -6,7 +6,7 @@ Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de t
 
 Vous retrouverez ici le [dossier documentaire](media/dossier_glyphosate.pdf) sur les controverses du glyphosate.
 
-## Arènes
+## Arènes de débat
 
 - Première arène : à Matignon, réunion d’un groupe de projet gouvernemental sur la sortie du glyphosate avec l'ensemble des acteurs concernés.
 - Deuxième arène : au Parlement européen, réunion d’une commission d’enquête sur la procédure d'autorisation des pesticides dans l'Union européenne et audition des parties prenantes.
