@@ -2,6 +2,10 @@
 
 Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de texte collaboratif pour rédiger et retrouver votre fiche de rôle, en vue de la simulation de débats du vendredi 21 février.
 
+## Dossier documentaire
+
+Vous retrouverez ici le [dossier documentaire](media/dossier_glyphosate.pdf) sur les controverses du glyphosate.
+
 ## Arènes
 
 - Première arène : à Matignon, réunion d’un groupe de projet gouvernemental sur la sortie du glyphosate avec l'ensemble des acteurs concernés.
