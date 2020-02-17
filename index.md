@@ -5,12 +5,12 @@ Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de t
 ## Arènes
 
 - Première arène : à Matignon, réunion d’un groupe de projet gouvernemental sur la sortie du glyphosate avec l'ensemble des acteurs concernés.
-- Deuxième arène : au Parlement européen, réunion d’une commission d’enquête pour étudier les procédures d’évaluation des pesticides et audition des parties prenantes.
+- Deuxième arène : au Parlement européen, réunion d’une commission d’enquête sur la procédure d'autorisation des pesticides dans l'Union européenne et audition des parties prenantes.
 
 ## Acteurs
 
-1 | [Science and Society - General introduction](resources/0-general-introduction.pdf) |
-2 | [Lecture 1 - The Gender of Science](resources/1-the-gender-of-science.pdf) |
+1 | [Ministère français (animateurs de l'arène 1), puis Autorité européenne de sécurité des aliments (EFSA)](https://annuel2.framapad.org/p/9f2a-premier-campus-ministeres-efsa?lang=fr) |
+2 | [Institut national de la recherche pour l'agriculture, l'alimentation et l'environnement (INRAE), puis députés verts (animateurs de l'arène 2)](https://annuel2.framapad.org/p/9f2a-premier-campus-inrae-deputes-verts?lang=fr) |
 3 | [Lecture 2 - A Politics of Things](resources/2-a-politics-of-things.pdf) |
 4 | [Lecture 3 - Rethinking Expertise through Controversies](resources/3-rethinking-expertise.pdf) |
 5 | [Lecture 4 - Environmental Social Sciences](resources/4-environmental-social-sciences.pdf) |
