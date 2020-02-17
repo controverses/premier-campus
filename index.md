@@ -1,11 +1,11 @@
-# Les Controverses du glyphosate
+# Les controverses du glyphosate
 
 Vous trouverez sur ce site la liste des acteurs et un lien vers un éditeur de texte collaboratif pour rédiger et retrouver votre fiche de rôle, en vue de la simulation de débats du vendredi 21 février.
 
 ## Arènes
 
-- **Première arène : ** à Matignon, réunion d’un groupe de projet gouvernemental sur la sortie du glyphosate avec l'ensemble des acteurs concernés.
-- **Deuxième arène : ** au Parlement européen, réunion d’une commission d’enquête pour étudier les procédures d’évaluation des pesticides et audition des parties prenantes.
+- Première arène : à Matignon, réunion d’un groupe de projet gouvernemental sur la sortie du glyphosate avec l'ensemble des acteurs concernés.
+- Deuxième arène : au Parlement européen, réunion d’une commission d’enquête pour étudier les procédures d’évaluation des pesticides et audition des parties prenantes.
 
 ## Acteurs
 
